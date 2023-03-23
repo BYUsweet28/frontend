@@ -352,7 +352,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>NCAA Basketball</h1>
+        <h1>NCAA Basketball Teams</h1>
       </header>
       <div>
         <List />
